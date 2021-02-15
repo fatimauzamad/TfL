@@ -16,6 +16,7 @@ An increasing number of drivers are using apps to provide services, and the usag
 
 People with higher incomes have higher demand for travel. The elasticity of demand however differs from mode to mode; For example, demand for rail increases faster than demand for travel in general as income increases while demand for bus travel in the same case observes a decline. Due to an unprecedented recession with COVID-19 surfacing, we observe a substantial effect on travel as changes in productivity, incomes and economics activity has led to reduced travel (Hence a declining trend for all modes). 
 
+## An Array Of Hope
 In a world post-Covid and increasing incomes will not only mean more travel but it will also lead to changes in consumer preferences (here consumers may choose modes other than public transport as their socioeconomic status improves i.e. car as a symbol of status or use of ridehailing services). While there has been an increase in incomes, car ownerships have declined. The introduction of apps which enable users to book a taxi or private hire vehicle (PHV) has had a major impact on both markets. 
 
 ![](viz/mybanner.png)
